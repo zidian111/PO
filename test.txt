@@ -1,3 +1,15 @@
 encond  1234567
 sdad
 asd
+
+
+git 
+
+
+D:\anzhuangwenjian\worksoft\PyCharm Community Edition 2017.1.1\bin;
+
+
+
+
+%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin
+;%JMETER_HOME%\bin;D:\Program Files (x86)\MySQL\MySQL Server 5.1\bin;%JMETER_HOME%\bin;%ANDROID_HOME%\platform-tools;%ANDROID_HOME%\tools;
